@@ -1,30 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T07:16:25.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="xMMDJWylQhwu5k7uUGDy" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T09:19:57.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="obfsh3BXmrnndeKdAViu" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="EORV_Kj6-0q7sqe3LwwC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EORV_Kj6-0q7sqe3LwwC-0">
+        <mxCell id="EORV_Kj6-0q7sqe3LwwC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EORV_Kj6-0q7sqe3LwwC-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650.0000000000002" y="299.83333333333337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EORV_Kj6-0q7sqe3LwwC-0" value="使用两个结构体来记录1.切割处于那个状态。2.切割时的状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EORV_Kj6-0q7sqe3LwwC-0" value="使用两个结构体来记录1.切割处于那个状态。2.切割时的状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="890" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EORV_Kj6-0q7sqe3LwwC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EORV_Kj6-0q7sqe3LwwC-1" target="EORV_Kj6-0q7sqe3LwwC-0">
+        <mxCell id="EORV_Kj6-0q7sqe3LwwC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EORV_Kj6-0q7sqe3LwwC-1" target="EORV_Kj6-0q7sqe3LwwC-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EORV_Kj6-0q7sqe3LwwC-1" value="CutStage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EORV_Kj6-0q7sqe3LwwC-1" value="CutStage" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="810" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EORV_Kj6-0q7sqe3LwwC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EORV_Kj6-0q7sqe3LwwC-2" target="EORV_Kj6-0q7sqe3LwwC-0">
+        <mxCell id="EORV_Kj6-0q7sqe3LwwC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EORV_Kj6-0q7sqe3LwwC-2" target="EORV_Kj6-0q7sqe3LwwC-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EORV_Kj6-0q7sqe3LwwC-2" value="CutProcess" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EORV_Kj6-0q7sqe3LwwC-2" value="CutProcess" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EORV_Kj6-0q7sqe3LwwC-8" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="EORV_Kj6-0q7sqe3LwwC-8" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="20" y="90" width="630" height="400" as="geometry" />
         </mxCell>
         <mxCell id="OSCxxA4FSVDrNaCSg42i-17" value="检测是否有相位的波动" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;sketch=1;shadow=0;" parent="EORV_Kj6-0q7sqe3LwwC-8" vertex="1">
@@ -144,6 +144,48 @@
         </mxCell>
         <mxCell id="OSCxxA4FSVDrNaCSg42i-51" value="" style="triangle;html=1;whiteSpace=wrap;rotation=-180;shadow=0;" parent="EORV_Kj6-0q7sqe3LwwC-8" vertex="1">
           <mxGeometry x="545" y="140" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QF_8yd48IrpIQFdhRcYQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EORV_Kj6-0q7sqe3LwwC-8" source="QF_8yd48IrpIQFdhRcYQ-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="280.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QF_8yd48IrpIQFdhRcYQ-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EORV_Kj6-0q7sqe3LwwC-8">
+          <mxGeometry x="410" y="250" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QF_8yd48IrpIQFdhRcYQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QF_8yd48IrpIQFdhRcYQ-2" target="QF_8yd48IrpIQFdhRcYQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QF_8yd48IrpIQFdhRcYQ-2" value="第一阶段判断稳定没有" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QF_8yd48IrpIQFdhRcYQ-3" value="第二阶段看inpe导数波动的大小、以及看&lt;b&gt;cuting的位置与stable的位置相差&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QF_8yd48IrpIQFdhRcYQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QF_8yd48IrpIQFdhRcYQ-5" target="QF_8yd48IrpIQFdhRcYQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="720" />
+              <mxPoint x="290" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QF_8yd48IrpIQFdhRcYQ-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QF_8yd48IrpIQFdhRcYQ-7">
+          <mxGeometry x="-0.1197" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QF_8yd48IrpIQFdhRcYQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QF_8yd48IrpIQFdhRcYQ-5" target="QF_8yd48IrpIQFdhRcYQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QF_8yd48IrpIQFdhRcYQ-10" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QF_8yd48IrpIQFdhRcYQ-8">
+          <mxGeometry x="-0.0593" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QF_8yd48IrpIQFdhRcYQ-5" value="如果稳定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="700" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
